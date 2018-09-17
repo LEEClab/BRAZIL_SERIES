@@ -50,6 +50,6 @@ Setor de Ecologia Aplicada, Universidade Federal de Lavras, Lavras, MG, 37200-00
 
 NERF-UFRGS, Núcleo deEcologia de Rodovias e Ferrovias, Departamento de Biologia, Universidade Federal do Rio Grande do Sul. 96203-900, Brasil.
 
-**Rubem A P Dornas**
+**Rubem A P Dornas**  
 PPG Análise e Modelagem de Sistemas Ambientais, Departamento de Cartografia, Instituto de Geociências, Universidade Federal de Minas Gerais. 31270-901 Brasil.
 
