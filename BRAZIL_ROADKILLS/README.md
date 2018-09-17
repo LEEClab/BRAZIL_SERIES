@@ -4,7 +4,7 @@
 ### ***<img align="right" width="250" src="brs_v02_roadkill1.jpg">BRAZIL ROAD-KILL – a dataset of wildlife terrestrial vertebrate road-kills***
 
 <p align="justify">
-BRAZIL ROAD-KILL is the first dataset of the <a href="https://github.com/LEEClab/Atlantic_series">BRAZIL series</a>, on which research teams are compiling biodiversity information within all the Brazil biomes. Brazil road-kill is lead by CLARA GRILO and ANDREAS KINDEL, and counts with the great contribution of a wide range of researchers, consulting and employing people involved on road-kill research, surveys and monitoring within Brazil. The manuscript was published in Ecology as a datapaper:
+BRAZIL ROAD-KILL is the first dataset of the <a href="https://github.com/LEEClab/BRAZIL_SERIES">BRAZIL series</a>, on which research teams are compiling biodiversity information within all the Brazil biomes. Brazil road-kill is lead by CLARA GRILO and ANDREAS KINDEL, and counts with the great contribution of a wide range of researchers, consulting and employing people involved on road-kill research, surveys and monitoring within Brazil. The manuscript was published in Ecology as a datapaper:
 
 The dataset was published in Ecology:
 
