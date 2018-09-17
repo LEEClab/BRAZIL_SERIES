@@ -26,7 +26,7 @@ Mortality from collision with vehicles is the most visible impact of road traffi
 
 ### Contact
 
-Correspondence and requests for materials should be addressed to: **Clara Grilo** (clarabentesgrilo@gmail.com) and Andreas Kindel (andreaskindel@gmail.com).
+Correspondence and requests for materials should be addressed to: **Clara Grilo** (clarabentesgrilo@gmail.com) and **Andreas Kindel** (andreaskindel@gmail.com).
 
 ## CLASS I. DATA SET DESCRIPTORS
 
