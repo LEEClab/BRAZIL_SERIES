@@ -42,13 +42,14 @@ Brazil_Roadkill_DataS1.zip: dataset with Brazil_Roadkill_20180527.csv.
 
 ## Principal Investigators:
 
-**Clara Grilo**: email [clarabentesgrilo@gmail.com](mailto:clarabentesgrilo@gmail.com)
+**Clara Grilo, Michely R Coimbra, Rafaela C Cerqueira, Priscilla Barbosa**
 
 Setor de Ecologia Aplicada, Universidade Federal de Lavras, Lavras, MG, 37200-000 Brasil. 
 
-**Andreas Kindel**: email [andreaskindel@gmail.com](mailto:andreaskindel@gmail.com)
+**Andreas Kindel, Larissa O Gonçalves, Fernanda Z Teixeira, Igor P Coelho, Brenda R Schmidt, Diana L K Pacheco, Gabriela Schuck, Isadora Beraldi Esperando, Juan A Anza, Júlia Beduschi, Nicole Rosa Oliveira, Paula F Pinheiro**
 
 NERF-UFRGS, Núcleo deEcologia de Rodovias e Ferrovias, Departamento de Biologia, Universidade Federal do Rio Grande do Sul. 96203-900, Brasil.
 
-
+**Rubem A P Dornas**
+PPG Análise e Modelagem de Sistemas Ambientais, Departamento de Cartografia, Instituto de Geociências, Universidade Federal de Minas Gerais. 31270-901 Brasil.
 
